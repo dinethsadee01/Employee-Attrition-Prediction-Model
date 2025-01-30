@@ -22,7 +22,7 @@ The dataset contains 74,498 records and 24 features, sourced from Kaggle, coveri
 ## How to Run  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/dinethsadee01/employee-attrition-prediction-model.git  
+   git clone https://github.com/dinethsadee01/Employee-Attrition-Prediction-Model.git  
    cd employee-attrition-prediction  
    ```  
 2. Install dependencies:  
